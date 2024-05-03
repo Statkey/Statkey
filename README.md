@@ -1,6 +1,48 @@
-I James Johnson-Williams, am designing a Token called Rootstock Token that can be mined by the physical action of planting a tree and geo-locating the tree with a tag. The token is split into 12 parts while it is initially being mined one photo per month thus planting will be the mining process for the Rootstock token. Reaching 12/12 parts of the Rootstock then allows for the Token to be Available to the Tree Planter. There can be analysis software that determines signs of life in the tree on months 0-12 once confirmed and mapped the Token fragments will then transform into one whole Rootstock Token. This token is then available for Spending and redeeming within the Rootstock Token App.
+# Tree Cycle App & Rootstock Token
 
- Using another Analysis software the App will be able to connect the Tokens to The Type of Tree it is and Calculate the Trees Ecological Cost and Benefits over the average lifetime of that Tree Type. This Value Calculation will determine the individual "Value Growth Potential" of the Rootstock Token.
+### App & Token Summary
+<p>This App called Tree Cycle will be an interface that allows users to mine a Token called Rootstock Token that can be mined by the physical action of planting a tree and geo-locating the tree with a tag. The token is split into 12 parts while it is initially being mined one photo per month thus planting will be the mining process for the Rootstock token. Reaching 12/12 parts of the Rootstock then allows for the Token to be Available to the Tree Planter. There will need to be an authentication process that  that determines signs of life in the tree on months 0-12 once confirmed and mapped the Token fragments will then transform into one whole Rootstock Token. This token is then available for Spending and redeeming within the Rootstock Token App. Using another Analysis software the App will be able to connect the Tokens to The Type of Tree it is and Calculate the Trees Ecological Cost and Benefits over the average lifetime of that Tree Type. This Value Calculation will determine the individual "Value Growth Potential" of the Rootstock Token.</p>
+
+ <p>Those who are receiving Rootstock tokens will have a token with pictures of the Tree and Geo-Location of the Tree planted. The Original Rootstock Token that was mined when it leaves the Wallet of the "Rootstock Token Planter Miner" leaves behind an Duplicate Rootstock Token called an Uprooted-Rootstock Token. This Uprooted-Rootstock is a system that takes care of proof of life for the tree as it grows on a 12-month basis the tree will be photographed and measured. Approximate size analysis will assist Growth Rate Projections for the "Value Growth Potential."</p> 
+
+<p> If the Tree is Cut Down or Dies the Connected Rootstock Token and Up-Rootstock become "Deadwood Token" this token could have Values Based on the trees species, size at death and choice of use. If the Tree is left where it fell the Carbon Sequestration is potentially increasing the value of the Deadwood Token. If the tree was harvested for structural lumber this could potentially increse the value of the Deadwood Token for use because of carbon sequestration in buildings.</p>
+
+<p>A 4th Token type called "Wood Shavings" users can earn a percent Wood Shavings from verifying signs of life in Tree Pictures submitted by themselves or other Users. Wood Shavings will be mined by the process of verifying tree life its value will be related to the Rootstock Token Value as a fraction of the Rootstocks "Potential Growth Value".</p>
+
+### Purpose
+<p>The main Purpose of this token is to incentivize the regenerative act of planting a tree by providing a potential market beyond just planting a tree and waiting to get a harvest from it. Being linked to the Blockchain allows the tokens to have a verifyable Tradeable Value for other currencies. These Tokens will provide reasons to not harm a forest because of its value as a carbon sink. People will also be able to tie the value of the token to the Value of Carbon sequestration thus creating a whole new markets in speculation.</p> 
+
+
+
+   ##### Variables Tracked by Tokens
+ 
+ **Value Number** is a consistently connected to all four Token Forms and determines how valuable the Tokens are when traded for a benifits or other currencies.
+
+
+### Features 
+
+**MINING PROCESS**
+
+**Person Plants Tree**
+
+**Takes Picture & Geolocates**
+
+**Beacon Tag? or Biomarker Tag?**
+
+**12 photos over 12 months (this is the Mining Process) Signs of Life ie, needles or leaves green and no dyback [if it is deciduous the buds breaking and leaves coming out]**
+
+**Each picture will upload into a slot on the aplication that Fits a Piece of the Rootstock Token for that specific tree @ geolocation (12/12=1 Rootstock Token)**
+
+**Display Potential Rootstock & Current Fractions out of 12/120 or 24/120 and so on**
+
+
+**Spend/Trade Rootstock** 
+
+**Reward Benifits**might include discounts on eco-Friendly Products access to exclusive events or workshops about sustainablilty/Permaculture or special recognition on the app like a leaderboard for who planted the most successful trees
+
+
+### Vision & Wishes
+[I would like to be able eventually to scale this up to larger land owners or companies with Tree Farms,I want to make this easily accessable to people who plant 100 plus trees on their Property and those people who are planting trees as an enviornmental improvement on a smaller scale]
 **Environmental Benefits**: Trees contribute to air purification by absorbing carbon dioxide and releasing oxygen, mitigating climate change, reducing air pollution, and providing habitat for wildlife.
 **Economic Benefits**: Trees can increase property values, reduce energy costs by providing shade and windbreaks, and contribute to water conservation by reducing runoff and erosion.
 **Social Benefits**: Trees enhance the aesthetic beauty of an area, provide recreational opportunities, and contribute to overall well-being by creating pleasant environments for people to live, work, and play.
@@ -26,44 +68,7 @@ Statistical Analysis: Next, you'll apply statistical techniques and methods to a
 **User Interface**: Finally, you'll need to design a user interface in your app to present the results of the statistical analysis to users in a clear and understandable way. This could involve visualizations like charts, graphs, maps, or simple textual summaries.
 Overall, coding statistical analysis processes for your app is definitely achievable, especially with the wide range of tools and libraries available for data analysis and manipulation in languages like JavaScript (which you might use with Svelte), Python, R, and others. It's a matter of identifying the appropriate techniques for your data and implementing them effectively within your app.
 
- 
- Those who are receiving Rootstock tokens will have a token with pictures of the Tree and Geo-Location of the Tree planted. The Original Rootstock Token that was mined when it leaves the Wallet of the "Rootstock Token Planter Miner" leaves behind an Duplicate Rootstock Token called an Uprooted-Rootstock Token. 
- 
-  This Uprooted-Rootstock is a system that takes care of proof of life for the tree as it grows on a 12-month basis the tree will be photographed and measured. Approximate size analysis will assist Growth Rate Projections for the "Value Growth Potential." If the Tree is Cut Down or Dies the Connected Rootstock Token and Up-Rootstock become "Deadwood Token" this token could have Values Based on the Trees Size at death and choice of use. If the Tree is left where it fell the Carbon Sequestration is potentially increasing the value of the Deadwood Token. If the tree was harvested for structural lumber this could potentially increse the value of the Deadwood Token for use because of carbon sequestration in buildings. 
-  
-  **Value Number** is a consistently connected to all three Token Forms and determines how valuable the Token is when traded for a Benifit.
-
-
-Processes that need Coding
-**MINING PROCESS**
-[I would like to be able eventually to scale this up to larger land owners or companies with Tree Farms,I want to make this easily accessable to people who plant 100 plus trees on their Property and those people who are planting trees as an enviornmental improvement on a smaller scale]
-**Person Plants Tree**
-
-**Takes Picture & Geolocates**
-
-**Beacon Tag? or Biomarker Tag?**
-
-**12 photos over 12 months (this is the Mining Process) Signs of Life ie, needles or leaves green and no dyback [if it is deciduous the buds breaking and leaves coming out]**
-
-**Each picture will upload into a slot on the aplication that Fits a Piece of the Rootstock Token for that specific tree @ geolocation (12/12=1 Rootstock Token)**
-
-**Display Potential Rootstock & Current Fractions out of 12/120 or 24/120 and so on**
-
-**VALUE SYSTEM**
-**Carbon Credits**: You mentioned this already, but it's worth emphasizing. Rootstock tokens could be linked to carbon sequestration, with each token representing a certain amount of carbon dioxide absorbed by the tree it's associated with. These tokens could be traded on carbon credit markets, where companies or individuals buy and sell credits to offset their carbon emissions. The value of Rootstock tokens would then be determined by the current market price of carbon credits.
-**Ecosystem Services**: Rootstock tokens could represent not just carbon sequestration but also other ecosystem services provided by trees, such as air purification, water regulation, biodiversity support, and soil conservation. These services have tangible economic value, and the tokens could be traded based on the overall ecological benefits provided by the tree.
-**Futures Trading**: You mentioned the possibility of futures trading. This could involve speculating on the future value of Rootstock tokens based on factors such as the growth rate of the tree, changes in environmental conditions, and the evolving market demand for ecosystem services. Futures trading could add liquidity to the market and allow investors to hedge against risks associated with tree planting.
-**Partnerships and Benefits**: Beyond trading, holders of Rootstock tokens could receive tangible benefits or incentives. These could include discounts on eco-friendly products, access to exclusive events or workshops on sustainability, priority access to environmental initiatives or projects, or even financial rewards based on the performance of the trees associated with their tokens.
-**Blockchain Integration**: By leveraging blockchain technology, you can ensure transparency and traceability in the trading of Rootstock tokens. Smart contracts could be used to automate transactions and ensure that token holders receive their entitled benefits or rewards automatically.
-**Community Engagement**: The value of Rootstock tokens could also be tied to community engagement and social impact. For example, token holders could earn rewards or bonuses for actively participating in tree planting initiatives, educating others about environmental conservation, or contributing to the maintenance and monitoring of planted trees.
-**Educational Programs**: Another way to add value to Rootstock tokens is through educational programs or initiatives funded by token trading revenues. This could involve sponsoring environmental education programs in schools, funding research on tree planting techniques or ecosystem services, or supporting community-based conservation projects.
-Overall, the key to giving Rootstock tokens real value lies in their ability to represent tangible environmental benefits, coupled with mechanisms for trading, incentivization, and community engagement. By integrating these elements thoughtfully, you can create a currency that not only fosters environmental stewardship but also provides meaningful rewards and incentives for its holders.
-[This is still being discussed because the Value of the Token on the Blockchain is yet to be determined. I would like there to be a way that Users can make real money or trade for other E-currencies because otherwise the system has to be closed with the Value only relevent in the app which eliminates the need for this to be tied to the Blockchain.]
-**Spend/Trade Rootstock** 
-
-**Reward Benifits**might include discounts on eco-Friendly Products access to exclusive events or workshops about sustainablilty/Permaculture or special recognition on the app like a leaderboard for who planted the most successful trees
-
- **AI Integration**;
+#### **AI Integration**;
  
  **AI Integration**: You can integrate AI into the app using its API. When users want information on trees or their benefits, they can initiate a conversation with AI within the app. AI can then provide relevant information based on the user's queries.
  **Data Collection and Analysis**: AI can access a wide range of internet sources to gather information on different tree species, their environmental benefits, economic impacts, social implications, and health benefits. It can analyze this data to provide insightful responses tailored to the user's needs.
@@ -83,7 +88,16 @@ By leveraging AI's abilities to research statistics and gather data, the TreeCyc
 Taking the time to develop the TreeCycle app thoroughly will not only ensure its quality but also allow AI technology to advance and potentially address any existing issues or limitations. AI technologies like ChatGPT are continuously evolving and improving, with researchers and developers working to enhance their capabilities, address challenges, and optimize their performance
 So, taking the time to develop the app thoughtfully while keeping an eye on advancements in AI technology can result in a more robust and innovative product in the end. It's an exciting time to be leveraging AI to create impactful solutions like the TreeCycle app.
 
-
+### **VALUE SYSTEM**
+**Carbon Credits**: You mentioned this already, but it's worth emphasizing. Rootstock tokens could be linked to carbon sequestration, with each token representing a certain amount of carbon dioxide absorbed by the tree it's associated with. These tokens could be traded on carbon credit markets, where companies or individuals buy and sell credits to offset their carbon emissions. The value of Rootstock tokens would then be determined by the current market price of carbon credits.
+**Ecosystem Services**: Rootstock tokens could represent not just carbon sequestration but also other ecosystem services provided by trees, such as air purification, water regulation, biodiversity support, and soil conservation. These services have tangible economic value, and the tokens could be traded based on the overall ecological benefits provided by the tree.
+**Futures Trading**: You mentioned the possibility of futures trading. This could involve speculating on the future value of Rootstock tokens based on factors such as the growth rate of the tree, changes in environmental conditions, and the evolving market demand for ecosystem services. Futures trading could add liquidity to the market and allow investors to hedge against risks associated with tree planting.
+**Partnerships and Benefits**: Beyond trading, holders of Rootstock tokens could receive tangible benefits or incentives. These could include discounts on eco-friendly products, access to exclusive events or workshops on sustainability, priority access to environmental initiatives or projects, or even financial rewards based on the performance of the trees associated with their tokens.
+**Blockchain Integration**: By leveraging blockchain technology, you can ensure transparency and traceability in the trading of Rootstock tokens. Smart contracts could be used to automate transactions and ensure that token holders receive their entitled benefits or rewards automatically.
+**Community Engagement**: The value of Rootstock tokens could also be tied to community engagement and social impact. For example, token holders could earn rewards or bonuses for actively participating in tree planting initiatives, educating others about environmental conservation, or contributing to the maintenance and monitoring of planted trees.
+**Educational Programs**: Another way to add value to Rootstock tokens is through educational programs or initiatives funded by token trading revenues. This could involve sponsoring environmental education programs in schools, funding research on tree planting techniques or ecosystem services, or supporting community-based conservation projects.
+Overall, the key to giving Rootstock tokens real value lies in their ability to represent tangible environmental benefits, coupled with mechanisms for trading, incentivization, and community engagement. By integrating these elements thoughtfully, you can create a currency that not only fosters environmental stewardship but also provides meaningful rewards and incentives for its holders.
+[This is still being discussed because the Value of the Token on the Blockchain is yet to be determined. I would like there to be a way that Users can make real money or trade for other E-currencies because otherwise the system has to be closed with the Value only relevent in the app which eliminates the need for this to be tied to the Blockchain.]
 
 
 
