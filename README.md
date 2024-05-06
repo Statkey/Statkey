@@ -7,19 +7,20 @@
 
 <p> If the Tree is Cut Down or Dies the Connected Rootstock Token and Living Wood Token become "Wood Shavings" this token could have Values Based on the trees species, size at death and choice of use post harvest. If the Tree is left where it fell the Carbon Sequestration is potentially increasing the amount of Wood Shavings. If the tree was harvested for structural lumber this could potentially increse the amount of Wood Shavings of the for use because of carbon sequestration in buildings.</p>
 
-<p>Token type called "Wood Shavings" users can earn a percent Wood Shavings from verifying signs of life in Tree Pictures submitted by themselves or other Users. Users also earn Wood Shavings each 12 months based on the Trees Carbon Wood Shavings will be mined by the process of verifying tree life its value will be related to the Rootstock Token Value as a fraction of the Rootstocks "Potential Growth Value".</p>
+<p>Token type called "Wood Shavings" users can earn a percent Wood Shavings from verifying signs of life in Tree Pictures submitted by themselves or other Users. Users also earn Wood Shavings each 12 months based on the Trees Carbon Sequestration calculations for that 12 month period.  Wood Shavings will be mined by the process of verifying tree life and by the continuous 12 month confirmation of existence of the connected tree its value will be related to the Rootstock Token Value as a fraction of the Rootstocks "Potential Growth Value".</p>
 
 ### Purpose
-<p>The main Purpose of this token is to incentivize the regenerative act of planting a tree by providing a potential market beyond just planting a tree and waiting to get a harvest from it. Being linked to the Blockchain allows the tokens to have a verifyable Tradeable Value for other currencies. These Tokens will provide reasons to not harm a forest because of its value as a carbon sink. People will also be able to tie the value of the token to the Value of Carbon sequestration thus creating a whole new markets in speculation.</p> 
+<p>The main Purpose of this token is to incentivize the regenerative act of planting a tree by providing a potential market beyond just planting a tree and waiting to get a harvest be it material or food. Being linked to the Blockchain allows the tokens to have a verifyable Tradeable Value for other currencies as well as a roadmap for tracking transaction history. These Tokens will provide reasons to not harm a forest because of its value as a carbon sink. People will also be able to tie the value of the token to the Value of Carbon sequestration thus creating a whole new market in speculation.</p> 
 
 
 
    ##### Variables Tracked by Tokens
  
  **Value Growth Potential** is a consistently connected to all Tree Cycle Token Forms and determines how valuable the Tokens are when traded for a benifits or other currencies.
- Carbon sequestration in pounds or kilograms
-
-
+Sub-Variables/ 
+Carbon sequestration in pounds or kilograms 
+Pollutants Filtered from air in pounds or kilograms
+Stormwater Absorbed (erosion Prevention) gallons or liters
 ### Features 
 
 **MINING PROCESS**
